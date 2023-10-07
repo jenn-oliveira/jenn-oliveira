@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! Eu sou a Jennifer Oliveira 😎
 
-<!--
-**jenn-oliveira/jenn-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente sou estagiaria na area de Arquitetura de TI
+- 🌱 Graduanda em Analise e Desenvolvimento de Sistemas
+- 😄 Pronomes: Ela/Dela
+- ⚡ Curiosidades: Amo programas culturais como: cinema, teatro, shows, etc.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hard Skills
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jenn-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+  <img align="center" alt="Jenn-MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+  <img align="center" alt="Jenn-GCP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg">
+  <img align="center" alt="Jenn-Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+  <img align="center" alt="Jenn-Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg">
+</div>
+  
+  ##
+ <div> 
+  <a href = "mailto:jenniferoliveira@hotmail.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jennifer-oliveira14" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
