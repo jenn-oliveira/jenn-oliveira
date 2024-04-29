@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jennifer Oliveira 😎
 
-- 🔭 Atualmente sou estagiaria na area de Arquitetura de TI
-- 🌱 Graduanda em Analise e Desenvolvimento de Sistemas
+- 🔭 Atualmente sou Jr na area de Arquitetura de TI
+- 🌱 Graduada em Analise e Desenvolvimento de Sistemas
 - 😄 Pronomes: Ela/Dela
 - ⚡ Curiosidades: Amo programas culturais como: cinema, teatro, shows, etc.
 
